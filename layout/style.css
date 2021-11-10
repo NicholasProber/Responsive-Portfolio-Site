@@ -1,0 +1,101 @@
+h1 {
+    font-size: 4em;
+    font-weight: bold;
+    text-align: center;
+
+}
+nav {
+    font-weight: 600;
+    
+}
+header{
+    margin-left: 15%;
+    align-items: center;
+    
+    background-color: rgb(245, 245, 245);
+    width: 70%;
+    flex-direction: column;
+    
+}
+h1 {
+    margin-bottom: 9%;
+    text-align: center;
+    margin-left: 17%;
+}
+h2 {
+    margin-top: 15%;
+}
+h3 {
+    text-align: center;
+    margin-top: 9%;
+    margin-bottom: 2%;
+}
+.header {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5px;
+    background-size: cover;
+    max-width: 90%;
+    padding: 0;
+}
+.paragraph1 {
+    padding: 8px 18px 18px 8px;
+}
+li {
+    background-color: rgb(255, 255, 255);
+    padding: 12px;
+    margin: 12px;
+    text-align: center;
+    list-style-type: none;
+    
+}
+p {
+    color: rgb(117, 117, 117);
+    text-align: center;
+    padding: 8px;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    margin-left: 15%;
+    display: flex;
+    flex-wrap: wrap;
+}
+body {
+    display: flex;
+    flex-direction: column;
+   
+   
+    margin: 0;
+  
+    
+}
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 1.2em;  
+ 
+}
+
+img {
+    display: flex;
+    justify-content: center;
+
+    max-width: 90%;
+}
+h2 {
+    text-align: center;
+}
+.centerimg {
+    display: flex;
+    justify-content: center;
+    min-height: fit-content;
+    min-width: 75%;;
+    max-width: 75%;
+    margin-top: 17%;
+    margin-left:19%;
+    margin-right: 13%;
+   
+  
+}
